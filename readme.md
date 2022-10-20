@@ -23,11 +23,13 @@ a_{31} x_1 + a_{32} & x_2 + a_{33} x_3 + \dots = y_3\\
 \end{aligned}  
 \right .
 $$
+
 - 即矩阵:
+
 $$
 \mathbf A _{n \times n} \mathbf X _{n \times 1} = \mathbf Y _{n \times 1}
 $$
-- 3*3 的迭代过程示例:
+- 3\*3 的迭代过程示例:
 
 $$
 \left \{
